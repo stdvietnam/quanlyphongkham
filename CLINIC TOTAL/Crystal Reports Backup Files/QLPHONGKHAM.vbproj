@@ -1,0 +1,1787 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5E9F75B3-4314-4DBD-9A43-7C8A90D3501A}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>Resources\favicon.ico</ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>MEDICAL</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyMode>None</AssemblyOriginatorKeyMode>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>WinExe</OutputType>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionStrict>Off</OptionStrict>
+    <RootNamespace>MEDICAL</RootNamespace>
+    <StartupObject>MEDICAL.Form1</StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <PublishUrl>http://localhost/QUANLYPHONGKHAM/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>MEDICAL.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>
+    </DefineConstants>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>MEDICAL.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>
+    </DefineConstants>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>false</DebugSymbols>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>none</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <BaseAddress>285212672</BaseAddress>
+    <DocumentationFile>MEDICAL.xml</DocumentationFile>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <BaseAddress>285212672</BaseAddress>
+    <DocumentationFile>MEDICAL.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Accessibility">
+      <Name>Accessibility</Name>
+    </Reference>
+    <Reference Include="BusinessLogic, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\BusinessLogic\bin\Debug\BusinessLogic.dll</HintPath>
+    </Reference>
+    <Reference Include="Connection _db, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Connection _db\bin\Debug\Connection _db.dll</HintPath>
+    </Reference>
+    <Reference Include="CRVsPackageLib, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Design, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.CrystalReports.Engine.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.TemplateEngine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.Data.AdoDotNetInterop, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Enterprise.Viewing.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.ClientDoc, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.ReportAppServer.ClientDoc.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.CommLayer, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.ReportAppServer.CommLayer.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.CommonControls, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.ReportAppServer.CommonControls.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.CommonObjectModel, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.ReportAppServer.CommonObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.Controllers, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.ReportAppServer.Controllers.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.CubeDefModel, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.ReportAppServer.CubeDefModel.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.DataDefModel, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.ReportAppServer.DataDefModel.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.DataSetConversion, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.ReportAppServer.DataSetConversion.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.ObjectFactory, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.ReportAppServer.ObjectFactory.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.Prompting, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.ReportAppServer.Prompting.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.ReportDefModel, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.ReportAppServer.ReportDefModel.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.XmlSerialize, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.ReportAppServer.XmlSerialize.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.ReportSource.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.Shared.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.VSDesigner, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Web, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="DataAccess, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\DataAccess\bin\Debug\DataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.BonusSkins.v17.2, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Charts.v17.2.Core, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Pdf.v17.2.Core, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Pdf.v17.2.Drawing, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v17.2.Export, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v17.2.Core, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v17.2, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Design.v17.2, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v17.2.Core, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Office.v17.2.Core, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.RichEdit.v17.2.Core, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v17.2, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.PdfViewer.v17.2, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v17.2, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v17.2.Design, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v17.2.Wizard, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v17.2, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v17.2, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v17.2.Design, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v17.2, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v17.2.Design, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v17.2, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v17.2.Design, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraNavBar.v17.2, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraNavBar.v17.2.Design, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPdfViewer.v17.2, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPivotGrid.v17.2, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v17.2, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.XtraPrinting.v17.2.Design, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.Sparkline.v17.2.Core, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v17.2.UI, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v17.2.Extensions, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.CodeParser.v17.2, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v17.2, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Images.v17.2, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.XtraRichEdit.v17.2, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.XtraTreeList.v17.2, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraTreeList.v17.2.Design, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="HtmlEditor, Version=1.0.5077.17484, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\HtmlEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.Excel">
+      <HintPath>..\..\..\Project_PK_LAOS\QLPHONGKHAM\bin\Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Interop.Microsoft.Office.Core">
+      <HintPath>..\..\..\Project_PK_LAOS\QLPHONGKHAM\bin\Interop.Microsoft.Office.Core.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Interop.Security">
+      <HintPath>..\..\..\Project_PK_LAOS\QLPHONGKHAM\bin\Interop.Security.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Interop.VBIDE">
+      <HintPath>..\..\..\Project_PK_LAOS\QLPHONGKHAM\bin\Interop.VBIDE.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=11.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Vbe.Interop, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\Project_PK_LAOS\QLPHONGKHAM\bin\Microsoft.Vbe.Interop.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.Vsa">
+      <Name>Microsoft.VisualBasic.Vsa</Name>
+    </Reference>
+    <Reference Include="Office Menu Control">
+      <HintPath>..\..\..\Project_PK_LAOS\QLPHONGKHAM\bin\Office Menu Control.dll</HintPath>
+    </Reference>
+    <Reference Include="stdole">
+      <Name>stdole</Name>
+      <HintPath>C:\Program Files\Microsoft.NET\Primary Interop Assemblies\stdole.dll</HintPath>
+      <AssemblyFolderKey>hklm\primary interop assemblies</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.DirectoryServices">
+      <Name>System.DirectoryServices</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web">
+      <Name>System.Web</Name>
+    </Reference>
+    <Reference Include="System.Web.Extensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+    <COMReference Include="stdole1">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+    </COMReference>
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Accessibility" />
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DanhMuc\frmDonThuocMau.designer.vb">
+      <DependentUpon>frmDonThuocMau.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DanhMuc\frmDonThuocMau.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DanhMuc\frmDMGhiChu.designer.vb">
+      <DependentUpon>frmDMGhiChu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DanhMuc\frmDMGhiChu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhamBenh\frmUploadFiles.Designer.vb">
+      <DependentUpon>frmUploadFiles.vb</DependentUpon>
+    </Compile>
+    <Compile Include="KhamBenh\frmUploadFiles.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhamBenh\frmViewFile_Pdf.Designer.vb">
+      <DependentUpon>frmViewFile_Pdf.vb</DependentUpon>
+    </Compile>
+    <Compile Include="KhamBenh\frmViewFile_Pdf.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhamBenh\frmViewImage.designer.vb">
+      <DependentUpon>frmViewImage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="KhamBenh\frmViewImage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLyThuChi\frmThongKeCongNo.Designer.vb">
+      <DependentUpon>frmThongKeCongNo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLyThuChi\frmThongKeCongNo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanLyThuoc\frmPhieuDoiTra.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\Mau20_BHXH.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Mau20_BHXH.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\Mau21_BHXH.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Mau21_BHXH.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\Mau79a_HD.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Mau79a_HD.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rpt_PhieuDoiTra.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_PhieuDoiTra.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rpt_xuat_vtth_cls.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_xuat_vtth_cls.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Class\clsHoSoBn.vb" />
+    <Compile Include="Class\clsKeDonThuoc.vb" />
+    <Compile Include="Class\clsMau79BHYT.vb" />
+    <Compile Include="Class\clsPhieuKhamBenh.vb" />
+    <Compile Include="DanhMuc\frmDinhMucBHYT.designer.vb">
+      <DependentUpon>frmDinhMucBHYT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DanhMuc\frmDinhMucBHYT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DanhMuc\frm_DanhMuc_MaBenh.designer.vb">
+      <DependentUpon>frm_DanhMuc_MaBenh.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DanhMuc\frm_DanhMuc_MaBenh.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhamBenh\FRM_CANLAMSANG.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhamBenh\FRM_GIAMDINHBAOHIEM.Designer.vb">
+      <DependentUpon>FRM_GIAMDINHBAOHIEM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="KhamBenh\FRM_GIAMDINHBAOHIEM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhamBenh\FRM_TONGCHIPHI_KCB_BHYT_NT.Designer.vb">
+      <DependentUpon>FRM_TONGCHIPHI_KCB_BHYT_NT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="KhamBenh\FRM_TONGCHIPHI_KCB_BHYT_NT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhamBenh\DevReport\XtraReport_5.Designer.vb">
+      <DependentUpon>XtraReport_5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="KhamBenh\DevReport\XtraReport_5.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="KhamBenh\DevReport\XtraReport_4.Designer.vb">
+      <DependentUpon>XtraReport_4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="KhamBenh\DevReport\XtraReport_4.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="KhamBenh\DevReport\XtraReport_3.Designer.vb">
+      <DependentUpon>XtraReport_3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="KhamBenh\DevReport\XtraReport_3.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="KhamBenh\DevReport\XtraReport_2.Designer.vb">
+      <DependentUpon>XtraReport_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="KhamBenh\DevReport\XtraReport_2.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rpt_BangKe_KhamChuaBenh_NgoaiTru.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_BangKe_KhamChuaBenh_NgoaiTru.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\RPT_KeDonThuoc2.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RPT_KeDonThuoc2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rpt_DonThuoc.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_DonThuoc.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rpt_TKPhieuKham - Copy.vb">
+      <DependentUpon>rpt_TKPhieuKham - Copy.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rpt_TonghopThuChi_NhanDan_A5.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_TonghopThuChi_NhanDan_A5.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Settings.vb" />
+    <None Include="bin\favicon.ico" />
+    <Content Include="CustomSearch\RepositoryItemMySearch.cs" />
+    <Content Include="Image\Logo.PNG" />
+    <Content Include="Image\NSDD.PNG" />
+    <Content Include="Image\NSDT.PNG" />
+    <Content Include="Image\NSTT.PNG" />
+    <None Include="Resources\favicon.ico" />
+    <None Include="Resources\Icon1.ico" />
+    <None Include="Resources\backgroud.jpg" />
+    <None Include="Resources\app.png" />
+    <None Include="Resources\bg_clinic.PNG" />
+    <None Include="Resources\login.PNG" />
+    <None Include="Resources\deletelist_16x16.png" />
+    <None Include="Resources\task_16x16.png" />
+    <None Include="Resources\search_16x16.png" />
+    <None Include="Resources\profilereport_16x162.png" />
+    <None Include="Resources\profilereport_16x161.png" />
+    <None Include="Resources\profilereport_16x16.png" />
+    <None Include="Resources\tasklist_16x16.png" />
+    <None Include="Resources\close_16x161.png" />
+    <None Include="Resources\printer_16x161.png" />
+    <None Include="Resources\deleteheader_16x161.png" />
+    <None Include="Resources\edittask_16x161.png" />
+    <None Include="Resources\right_16x161.png" />
+    <None Include="Resources\save_16x161.png" />
+    <None Include="Resources\add_16x161.png" />
+    <None Include="Resources\right_16x16.png" />
+    <None Include="Resources\close_16x16.png" />
+    <None Include="Resources\refresh_16x16.png" />
+    <None Include="Resources\printer_16x16.png" />
+    <None Include="Resources\deleteheader_16x16.png" />
+    <None Include="Resources\edittask_16x16.png" />
+    <None Include="Resources\save_16x16.png" />
+    <None Include="Resources\add_16x16.png" />
+    <None Include="Resources\dangnhap48.png" />
+    <None Include="Resources\view24.png" />
+    <None Include="Resources\user24.png" />
+    <None Include="Resources\settings24.png" />
+    <None Include="Resources\save24.png" />
+    <None Include="Resources\refresh24.png" />
+    <None Include="Resources\printer24.png" />
+    <None Include="Resources\no24.png" />
+    <None Include="Resources\exit24.png" />
+    <None Include="Resources\edit24.png" />
+    <None Include="Resources\delete24.png" />
+    <None Include="Resources\data24.png" />
+    <None Include="Resources\cross24.png" />
+    <None Include="Resources\add24.png" />
+    <None Include="Resources\bg.jpg" />
+    <None Include="Resources\database-settings-icon.png" />
+    <None Include="Resources\medical-report-icon.png" />
+    <None Include="Resources\IMG_07062017_160233_0.png" />
+    <None Include="Resources\Window-Refresh-icon.png" />
+    <None Include="Resources\Activity-Monitor-icon.png" />
+    <None Include="Resources\colba-icon.png" />
+    <EmbeddedResource Include="DanhMuc\frmDonThuocMau.resx">
+      <DependentUpon>frmDonThuocMau.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DanhMuc\frmDMGhiChu.resx">
+      <DependentUpon>frmDMGhiChu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhamBenh\frmUploadFiles.resx">
+      <DependentUpon>frmUploadFiles.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhamBenh\frmViewFile_Pdf.resx">
+      <DependentUpon>frmViewFile_Pdf.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhamBenh\frmViewImage.resx">
+      <DependentUpon>frmViewImage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLyThuChi\frmThongKeCongNo.resx">
+      <DependentUpon>frmThongKeCongNo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLyThuoc\frmPhieuDoiTra.resx">
+      <DependentUpon>frmPhieuDoiTra.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\Mau20_BHXH.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Mau20_BHXH.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\Mau21_BHXH.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Mau21_BHXH.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\Mau79a_HD.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Mau79a_HD.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rpt_PhieuDoiTra.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_PhieuDoiTra.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rpt_xuat_vtth_cls.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_xuat_vtth_cls.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DanhMuc\frmDinhMucBHYT.resx">
+      <DependentUpon>frmDinhMucBHYT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DanhMuc\frm_DanhMuc_MaBenh.resx">
+      <DependentUpon>frm_DanhMuc_MaBenh.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhamBenh\FRM_CANLAMSANG.resx">
+      <DependentUpon>FRM_CANLAMSANG.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhamBenh\FRM_GIAMDINHBAOHIEM.resx">
+      <DependentUpon>FRM_GIAMDINHBAOHIEM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhamBenh\FRM_TONGCHIPHI_KCB_BHYT_NT.resx">
+      <DependentUpon>FRM_TONGCHIPHI_KCB_BHYT_NT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhamBenh\DevReport\XtraReport_5.resx">
+      <DependentUpon>XtraReport_5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhamBenh\DevReport\XtraReport_4.resx">
+      <DependentUpon>XtraReport_4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhamBenh\DevReport\XtraReport_3.resx">
+      <DependentUpon>XtraReport_3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhamBenh\DevReport\XtraReport_2.resx">
+      <DependentUpon>XtraReport_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rpt_BangKe_KhamChuaBenh_NgoaiTru.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_BangKe_KhamChuaBenh_NgoaiTru.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\RPT_KeDonThuoc2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RPT_KeDonThuoc2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rpt_DonThuoc.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_DonThuoc.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rpt_TKPhieuKham - Copy.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_TKPhieuKham - Copy.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rpt_TonghopThuChi_NhanDan_A5.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_TonghopThuChi_NhanDan_A5.vb</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="KhamBenh\DevReport\DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="KhamBenh\DevReport\DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="KhamBenh\DevReport\DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\microscope-icon.png" />
+    <None Include="Resources\Scissors-icon.png" />
+    <None Include="Resources\Stethoscope-icon.png" />
+    <None Include="Resources\stethoscope-icon1.png" />
+    <None Include="Resources\tubes-icon.png" />
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="QuanLyThuoc\DataSet_chitietPXN.xsc">
+      <DependentUpon>DataSet_chitietPXN.xsd</DependentUpon>
+    </None>
+    <None Include="QuanLyThuoc\DataSet_chitietPXN.xss">
+      <DependentUpon>DataSet_chitietPXN.xsd</DependentUpon>
+    </None>
+    <Compile Include="AssemblyInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BaoCao\frm_bcdoanhthuchitiet.designer.vb">
+      <DependentUpon>frm_bcdoanhthuchitiet.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BaoCao\frm_bcdoanhthuchitiet.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaoCao\frm_Tonghopthuchi.Designer.vb">
+      <DependentUpon>frm_Tonghopthuchi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BaoCao\frm_Tonghopthuchi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaoCao\frm_baocaothanhtoan.designer.vb">
+      <DependentUpon>frm_baocaothanhtoan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BaoCao\frm_baocaothanhtoan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\rpt_bcdoanhthuchitiet.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_bcdoanhthuchitiet.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rpt_benhtruyennhiem.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_benhtruyennhiem.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rpt_kcb_cls.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_kcb_cls.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rpt_sokhambenh.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_sokhambenh.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rpt_soxetnghiem.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_soxetnghiem.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rpt_Tonghopthuchi.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_Tonghopthuchi.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Class\clsConnectionInfor.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Class\ClsDMquy.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Class\ClsDMThuChi.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Class\clsFrmPhieuXN.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Class\clsFrmPhieuXNKedonthuoc.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Class\clsFrm_kedonthuoc.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Class\clsKet_noi.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Class\Clskhoa.vb" />
+    <Compile Include="Class\ClsKhohang.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Class\ClsLogin.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Class\ClsNguoi_SD.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Class\ClsNhomSP.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Class\ClsNhom_NSD.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Class\ClsPhanquyen.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Class\ClsPhongBan.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Class\clssanpham.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Class\ClsThemDonVi.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Class\ClsThem_moi_kho.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Class\ClsThem_moi_Ton_Kho.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Class\clsThuchi.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Class\CLsTinhlaivondoanhnghiep.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Class\ClsTonkhoNgay.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Class\clston_quy.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Class\clsXNKho.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Class\Encryption64.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Class\Excel.vb" />
+    <Compile Include="DanhMuc\frmDMLieudung.designer.vb">
+      <DependentUpon>frmDMLieudung.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DanhMuc\frmDMLieudung.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DanhMuc\frmNhomxetnghiem.designer.vb">
+      <DependentUpon>frmNhomxetnghiem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DanhMuc\frmNhomxetnghiem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DanhMuc\FRM_DMNHOMTHUOC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DanhMuc\frmCapNhatGia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DanhMuc\FRM_DMCHUNG.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DanhMuc\frmDanhmucPhong.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DanhMuc\frmDMQuy.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DanhMuc\frmDMThuChi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DanhMuc\frmNhomSP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DanhMuc\frmSanpham.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DanhMuc\frmThemDonVi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DanhMuc\frmThemKhoHang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DanhMuc\FRM_DM_BENHNHAN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DanhMuc\frm_hosobnchitiet.Designer.vb">
+      <DependentUpon>frm_hosobnchitiet.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DanhMuc\frm_hosobnchitiet.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HeThong\frmDoiMK.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HeThong\frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HeThong\frmNguoi_SD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HeThong\frmNhom_NSD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HeThong\frmPhanQuyen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HeThong\frmPhongBan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HeThong\frmShowReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HeThong\Frmtacgia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HeThong\frmThongKeTruyCap.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HeThong\FRM_DanhsachBN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HeThong\MdiMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBase.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DonThuoc\frm_Kedonthuoc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DonThuoc\Frm_THONGKE_KEDONTHUOC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Class\MdlCommon.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="KhamBenh\DevReport\XtraReport_0.Designer.vb">
+      <DependentUpon>XtraReport_0.vb</DependentUpon>
+    </Compile>
+    <Compile Include="KhamBenh\DevReport\XtraReport_0.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="KhamBenh\DevReport\DataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="KhamBenh\DevReport\XtraReport_1.Designer.vb">
+      <DependentUpon>XtraReport_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="KhamBenh\DevReport\XtraReport_1.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="KhamBenh\DocBrowser.Designer.vb">
+      <DependentUpon>DocBrowser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="KhamBenh\DocBrowser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhamBenh\frmBackup_Retore_DB.Designer.vb">
+      <DependentUpon>frmBackup_Retore_DB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="KhamBenh\frmBackup_Retore_DB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhamBenh\frmBaocaochitietxuatnhap.Designer.vb">
+      <DependentUpon>frmBaocaochitietxuatnhap.vb</DependentUpon>
+    </Compile>
+    <Compile Include="KhamBenh\frmBaocaochitietxuatnhap.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DanhMuc\frmSanPham_Import.Designer.vb">
+      <DependentUpon>frmSanPham_Import.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DanhMuc\frmSanPham_Import.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhamBenh\frm_Baocaohansudungthuoc.Designer.vb">
+      <DependentUpon>frm_Baocaohansudungthuoc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="KhamBenh\frm_Baocaohansudungthuoc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhamBenh\frm_DMDoituong.Designer.vb">
+      <DependentUpon>frm_DMDoituong.vb</DependentUpon>
+    </Compile>
+    <Compile Include="KhamBenh\frm_DMDoituong.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhamBenh\FRM_DSCLS.Designer.vb">
+      <DependentUpon>FRM_DSCLS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="KhamBenh\FRM_DSCLS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhamBenh\FRM_KECANLAMSANG.Designer.vb">
+      <DependentUpon>FRM_KECANLAMSANG.vb</DependentUpon>
+    </Compile>
+    <Compile Include="KhamBenh\FRM_KECANLAMSANG.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhamBenh\FRM_Server_PathExists.Designer.vb">
+      <DependentUpon>FRM_Server_PathExists.vb</DependentUpon>
+    </Compile>
+    <Compile Include="KhamBenh\FRM_Server_PathExists.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\rptBaocaochitietxuatnhap.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptBaocaochitietxuatnhap.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rpt_baocaohansudung.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_baocaohansudung.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rpt_Benh_An.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_Benh_An.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="QuanLyThuChi\frmPhieuTC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanLyThuChi\frmThongKeTC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanLyThuChi\frmTKTon_quy.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanLyThuChi\frmTon_quy.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanLyThuoc\frmThongkexuatnoibo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanLyThuoc\frmPhieunhapnoibo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanLyThuoc\frmtkxnnoibo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanLyThuoc\frmPhieuxuatvtyt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanLyThuoc\frmPhieuxuatnoibo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanLyThuoc\DataSet_chitietPXN.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_chitietPXN.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLyThuoc\frmPhieuNHAPKHOTHUOC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanLyThuoc\frmPhieuXN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanLyThuoc\frmThongkephieunhapthuoc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanLyThuoc\frmThongkeXN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanLyThuoc\FRM_XUATTHEOLO.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhamBenh\Frm_chuyenvien.Designer.vb">
+      <DependentUpon>Frm_chuyenvien.vb</DependentUpon>
+    </Compile>
+    <Compile Include="KhamBenh\Frm_chuyenvien.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhamBenh\FRM_ThanhToanBanLe.Designer.vb">
+      <DependentUpon>FRM_ThanhToanBanLe.vb</DependentUpon>
+    </Compile>
+    <Compile Include="KhamBenh\FRM_ThanhToanBanLe.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhamBenh\frm_LichSuBenhNhan.designer.vb">
+      <DependentUpon>frm_LichSuBenhNhan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="KhamBenh\frm_LichSuBenhNhan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhamBenh\FRM_PhieuKham.Designer.vb">
+      <DependentUpon>FRM_PhieuKham.vb</DependentUpon>
+    </Compile>
+    <Compile Include="KhamBenh\FRM_PhieuKham.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhamBenh\FRM_ThanhToanNhanDan.Designer.vb">
+      <DependentUpon>FRM_ThanhToanNhanDan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="KhamBenh\FRM_ThanhToanNhanDan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhamBenh\FRM_TIEPDONBN.Designer.vb">
+      <DependentUpon>FRM_TIEPDONBN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="KhamBenh\FRM_TIEPDONBN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhamBenh\FRMTHONGKEPHIEUKHAM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhamBenh\FRMTHONGKEPHIEUDICHVU.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanLyKho\frmTKTonKhoCLS.Designer.vb">
+      <DependentUpon>frmTKTonKhoCLS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLyKho\frmTKTonKhoCLS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanLyKho\frmTKTonKhoKhoaDuoc.Designer.vb">
+      <DependentUpon>frmTKTonKhoKhoaDuoc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLyKho\frmTKTonKhoKhoaDuoc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanLyKho\frmThongKeThuoc.designer.vb">
+      <DependentUpon>frmThongKeThuoc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLyKho\frmThongKeThuoc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanLyKho\frm_base.Designer.vb">
+      <DependentUpon>frm_base.vb</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLyKho\frm_base.vb" />
+    <Compile Include="QuanLyKho\FRM_TKTonkhovatu.Designer.vb">
+      <DependentUpon>FRM_TKTonkhovatu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLyKho\FRM_TKTonkhovatu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\rpt_Sophieukham.vb">
+      <DependentUpon>rpt_Sophieukham.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\CrystalReport1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptLichsubenhnhan.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptLichsubenhnhan.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\Crys_Login.vb">
+      <DependentUpon>Crys_Login.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptInTheKho.vb">
+      <DependentUpon>rptInTheKho.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptPhieunhapthuoc.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptPhieunhapthuoc.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptPhieuTC.vb">
+      <DependentUpon>rptPhieuTC.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptPhieuXN_Kedonthuoc.vb">
+      <DependentUpon>rptPhieuXN_Kedonthuoc.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptPhieuXN_xuatHC.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptPhieuXN_xuatHC.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptThongkeTC.vb">
+      <DependentUpon>rptThongkeTC.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptThongKeXN.vb">
+      <DependentUpon>rptThongKeXN.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptThongKeXN_donthuoc.vb">
+      <DependentUpon>rptThongKeXN_donthuoc.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptTKTonKhoTheoKhoa.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptTKTonKhoTheoKhoa.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptTKTon_Quy.vb">
+      <DependentUpon>rptTKTon_Quy.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptTK_KhoCLS.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptTK_KhoCLS.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptTK_KhoDuoc_TongHop.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptTK_KhoDuoc_TongHop.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptTonkho.vb">
+      <DependentUpon>rptTonkho.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rpt_bctonghop.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_bctonghop.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rpt_chiphikham.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_chiphikham.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rpt_chiphikhamYC.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_chiphikhamYC.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\Rpt_DSCLS.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Rpt_DSCLS.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\RPT_Phieudangkykhambenh.vb">
+      <DependentUpon>RPT_Phieudangkykhambenh.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\RPT_phieuhenkham.vb">
+      <DependentUpon>RPT_phieuhenkham.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\RPT_PhieuinXN.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RPT_PhieuinXN.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\RPT_PhieuXetNghiem.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RPT_PhieuXetNghiem.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\RPT_THONGKE_SIEUAM.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RPT_THONGKE_SIEUAM.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rpt_Thutienbanthuoc.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_Thutienbanthuoc.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rpt_TKPhieuKham.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_TKPhieuKham.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rpt_TonghopThuChi_NhanDan.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_TonghopThuChi_NhanDan.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Content Include="Connection.xml" />
+    <Content Include="QuanLyThuoc\DataSet_chitietPXN.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_chitietPXN.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </Content>
+    <None Include="Resources\bag-icon.png" />
+    <None Include="Resources\XQ.ico" />
+    <None Include="Resources\xn2.ico" />
+    <None Include="Resources\XN.ico" />
+    <None Include="Resources\thuoc.ico" />
+    <None Include="Resources\sa.ico" />
+    <None Include="Resources\NS.ico" />
+    <None Include="Resources\new.ico" />
+    <None Include="Resources\DTim.ico" />
+    <None Include="Resources\bnhan.ico" />
+    <None Include="Resources\money.png" />
+    <None Include="Resources\delete.bmp" />
+    <None Include="Resources\billing.png" />
+    <EmbeddedResource Include="BaoCao\frm_bcdoanhthuchitiet.resx">
+      <DependentUpon>frm_bcdoanhthuchitiet.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaoCao\frm_Tonghopthuchi.resx">
+      <DependentUpon>frm_Tonghopthuchi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaoCao\frm_baocaothanhtoan.resx">
+      <DependentUpon>frm_baocaothanhtoan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rpt_bcdoanhthuchitiet.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_bcdoanhthuchitiet.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rpt_benhtruyennhiem.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_benhtruyennhiem.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rpt_kcb_cls.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_kcb_cls.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rpt_sokhambenh.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_sokhambenh.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rpt_soxetnghiem.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_soxetnghiem.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rpt_Tonghopthuchi.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_Tonghopthuchi.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DanhMuc\frmDMLieudung.resx">
+      <DependentUpon>frmDMLieudung.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DanhMuc\frmNhomxetnghiem.resx">
+      <DependentUpon>frmNhomxetnghiem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DanhMuc\FRM_DMNHOMTHUOC.resx">
+      <DependentUpon>FRM_DMNHOMTHUOC.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DanhMuc\frmCapNhatGia.resx">
+      <DependentUpon>frmCapNhatGia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DanhMuc\FRM_DMCHUNG.resx">
+      <DependentUpon>FRM_DMCHUNG.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DanhMuc\frmDanhmucPhong.resx">
+      <DependentUpon>frmDanhmucPhong.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DanhMuc\frmDMQuy.resx">
+      <DependentUpon>frmDMQuy.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DanhMuc\frmDMThuChi.resx">
+      <DependentUpon>frmDMThuChi.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DanhMuc\frmNhomSP.resx">
+      <DependentUpon>frmNhomSP.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DanhMuc\frmSanpham.resx">
+      <DependentUpon>frmSanpham.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DanhMuc\frmThemDonVi.resx">
+      <DependentUpon>frmThemDonVi.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DanhMuc\frmThemKhoHang.resx">
+      <DependentUpon>frmThemKhoHang.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DanhMuc\FRM_DM_BENHNHAN.resx">
+      <DependentUpon>FRM_DM_BENHNHAN.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DanhMuc\frm_hosobnchitiet.resx">
+      <DependentUpon>frm_hosobnchitiet.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeThong\frmDoiMK.resx">
+      <DependentUpon>frmDoiMK.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeThong\frmLogin.resx">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeThong\frmNguoi_SD.resx">
+      <DependentUpon>frmNguoi_SD.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeThong\frmNhom_NSD.resx">
+      <DependentUpon>frmNhom_NSD.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeThong\frmPhanQuyen.resx">
+      <DependentUpon>frmPhanQuyen.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeThong\frmPhongBan.resx">
+      <DependentUpon>frmPhongBan.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeThong\frmShowReport.resx">
+      <DependentUpon>frmShowReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeThong\Frmtacgia.resx">
+      <DependentUpon>Frmtacgia.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeThong\frmThongKeTruyCap.resx">
+      <DependentUpon>frmThongKeTruyCap.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeThong\FRM_DanhsachBN.resx">
+      <DependentUpon>FRM_DanhsachBN.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeThong\MdiMain.resx">
+      <DependentUpon>MdiMain.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBase.resx">
+      <DependentUpon>frmBase.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DonThuoc\frm_Kedonthuoc.resx">
+      <DependentUpon>frm_Kedonthuoc.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DonThuoc\Frm_THONGKE_KEDONTHUOC.resx">
+      <DependentUpon>Frm_THONGKE_KEDONTHUOC.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <SubType>Designer</SubType>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhamBenh\DevReport\XtraReport_0.resx">
+      <DependentUpon>XtraReport_0.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhamBenh\DevReport\XtraReport_1.resx">
+      <DependentUpon>XtraReport_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhamBenh\DocBrowser.resx">
+      <DependentUpon>DocBrowser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhamBenh\frmBackup_Retore_DB.resx">
+      <DependentUpon>frmBackup_Retore_DB.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhamBenh\frmBaocaochitietxuatnhap.resx">
+      <DependentUpon>frmBaocaochitietxuatnhap.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DanhMuc\frmSanPham_Import.resx">
+      <DependentUpon>frmSanPham_Import.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhamBenh\frm_Baocaohansudungthuoc.resx">
+      <DependentUpon>frm_Baocaohansudungthuoc.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhamBenh\frm_DMDoituong.resx">
+      <DependentUpon>frm_DMDoituong.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhamBenh\FRM_DSCLS.resx">
+      <DependentUpon>FRM_DSCLS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhamBenh\FRM_KECANLAMSANG.resx">
+      <DependentUpon>FRM_KECANLAMSANG.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhamBenh\FRM_Server_PathExists.resx">
+      <DependentUpon>FRM_Server_PathExists.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptBaocaochitietxuatnhap.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptBaocaochitietxuatnhap.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rpt_baocaohansudung.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_baocaohansudung.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rpt_Benh_An.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_Benh_An.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLyThuChi\frmPhieuTC.resx">
+      <DependentUpon>frmPhieuTC.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLyThuChi\frmThongKeTC.resx">
+      <DependentUpon>frmThongKeTC.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLyThuChi\frmTKTon_quy.resx">
+      <DependentUpon>frmTKTon_quy.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLyThuChi\frmTon_quy.resx">
+      <DependentUpon>frmTon_quy.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLyThuoc\frmThongkexuatnoibo.resx">
+      <DependentUpon>frmThongkexuatnoibo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLyThuoc\frmPhieunhapnoibo.resx">
+      <DependentUpon>frmPhieunhapnoibo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLyThuoc\frmtkxnnoibo.resx">
+      <DependentUpon>frmtkxnnoibo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLyThuoc\frmPhieuxuatvtyt.resx">
+      <DependentUpon>frmPhieuxuatvtyt.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLyThuoc\frmPhieuxuatnoibo.resx">
+      <DependentUpon>frmPhieuxuatnoibo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLyThuoc\frmPhieuNHAPKHOTHUOC.resx">
+      <DependentUpon>frmPhieuNHAPKHOTHUOC.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLyThuoc\frmPhieuXN.resx">
+      <DependentUpon>frmPhieuXN.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLyThuoc\frmThongkephieunhapthuoc.resx">
+      <DependentUpon>frmThongkephieunhapthuoc.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLyThuoc\frmThongkeXN.resx">
+      <DependentUpon>frmThongkeXN.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLyThuoc\FRM_XUATTHEOLO.resx">
+      <DependentUpon>FRM_XUATTHEOLO.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhamBenh\Frm_chuyenvien.resx">
+      <DependentUpon>Frm_chuyenvien.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhamBenh\FRM_ThanhToanBanLe.resx">
+      <DependentUpon>FRM_ThanhToanBanLe.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhamBenh\frm_LichSuBenhNhan.resx">
+      <DependentUpon>frm_LichSuBenhNhan.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhamBenh\FRM_PhieuKham.resx">
+      <DependentUpon>FRM_PhieuKham.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhamBenh\FRM_ThanhToanNhanDan.resx">
+      <DependentUpon>FRM_ThanhToanNhanDan.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhamBenh\FRM_TIEPDONBN.resx">
+      <DependentUpon>FRM_TIEPDONBN.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhamBenh\FRMTHONGKEPHIEUKHAM.resx">
+      <DependentUpon>FRMTHONGKEPHIEUKHAM.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhamBenh\FRMTHONGKEPHIEUDICHVU.resx">
+      <DependentUpon>FRMTHONGKEPHIEUDICHVU.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLyKho\frmTKTonKhoCLS.resx">
+      <DependentUpon>frmTKTonKhoCLS.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLyKho\frmTKTonKhoKhoaDuoc.resx">
+      <DependentUpon>frmTKTonKhoKhoaDuoc.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLyKho\frmThongKeThuoc.resx">
+      <DependentUpon>frmThongKeThuoc.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLyKho\frm_base.resx">
+      <DependentUpon>frm_base.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLyKho\FRM_TKTonkhovatu.resx">
+      <DependentUpon>FRM_TKTonkhovatu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rpt_Sophieukham.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_Sophieukham.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\CrystalReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptLichsubenhnhan.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptLichsubenhnhan.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\Crys_Login.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Crys_Login.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptInTheKho.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptInTheKho.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptPhieunhapthuoc.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptPhieunhapthuoc.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptPhieuTC.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptPhieuTC.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptPhieuXN_Kedonthuoc.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptPhieuXN_Kedonthuoc.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptPhieuXN_xuatHC.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptPhieuXN_xuatHC.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptThongkeTC.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptThongkeTC.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptThongKeXN.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptThongKeXN.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptThongKeXN_donthuoc.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptThongKeXN_donthuoc.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptTKTonKhoTheoKhoa.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptTKTonKhoTheoKhoa.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptTKTon_Quy.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptTKTon_Quy.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptTK_KhoCLS.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptTK_KhoCLS.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptTK_KhoDuoc_TongHop.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptTK_KhoDuoc_TongHop.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptTonkho.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptTonkho.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rpt_bctonghop.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_bctonghop.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rpt_chiphikham.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_chiphikham.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rpt_chiphikhamYC.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_chiphikhamYC.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\Rpt_DSCLS.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Rpt_DSCLS.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\RPT_Phieudangkykhambenh.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RPT_Phieudangkykhambenh.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\RPT_phieuhenkham.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RPT_phieuhenkham.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\RPT_PhieuinXN.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RPT_PhieuinXN.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\RPT_PhieuXetNghiem.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RPT_PhieuXetNghiem.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\RPT_THONGKE_SIEUAM.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RPT_THONGKE_SIEUAM.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rpt_Thutienbanthuoc.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_Thutienbanthuoc.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rpt_TKPhieuKham.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_TKPhieuKham.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rpt_TonghopThuChi_NhanDan.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_TonghopThuChi_NhanDan.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

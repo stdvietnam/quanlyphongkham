@@ -1,0 +1,64 @@
+E:\Bacvd\BVYP_BACNINH\Project_BVYP_NoServices_2008\Connection _db\bin\Release\Connection _db.exe
+E:\Bacvd\BVYP_BACNINH\Project_BVYP_NoServices_2008\Connection _db\bin\Release\Connection _db.pdb
+E:\Bacvd\BVYP_BACNINH\Project_BVYP_NoServices_2008\Connection _db\obj\Release\ResolveAssemblyReference.cache
+E:\Bacvd\BVYP_BACNINH\Project_BVYP_NoServices_2008\Connection _db\obj\Release\Connection_db.Login_Database.resources
+E:\Bacvd\BVYP_BACNINH\Project_BVYP_NoServices_2008\Connection _db\obj\Release\Connection_db.Properties.Resources.resources
+E:\Bacvd\BVYP_BACNINH\Project_BVYP_NoServices_2008\Connection _db\obj\Release\Connection _db.csproj.GenerateResource.Cache
+E:\Bacvd\BVYP_BACNINH\Project_BVYP_NoServices_2008\Connection _db\obj\Release\Connection _db.exe
+E:\Bacvd\BVYP_BACNINH\Project_BVYP_NoServices_2008\Connection _db\obj\Release\Connection _db.pdb
+D:\TCSoft\PM_BenhVien\Project_BVYP_NoServices_2008.17.05.2015\Connection _db\bin\Release\Connection _db.exe
+D:\TCSoft\PM_BenhVien\Project_BVYP_NoServices_2008.17.05.2015\Connection _db\bin\Release\Connection _db.pdb
+D:\TCSoft\PM_BenhVien\Project_BVYP_NoServices_2008.17.05.2015\Connection _db\obj\Release\ResolveAssemblyReference.cache
+D:\TCSoft\PM_BenhVien\Project_BVYP_NoServices_2008.17.05.2015\Connection _db\obj\Release\Connection_db.Login_Database.resources
+D:\TCSoft\PM_BenhVien\Project_BVYP_NoServices_2008.17.05.2015\Connection _db\obj\Release\Connection_db.Properties.Resources.resources
+D:\TCSoft\PM_BenhVien\Project_BVYP_NoServices_2008.17.05.2015\Connection _db\obj\Release\Connection _db.csproj.GenerateResource.Cache
+D:\TCSoft\PM_BenhVien\Project_BVYP_NoServices_2008.17.05.2015\Connection _db\obj\Release\Connection _db.exe
+D:\TCSoft\PM_BenhVien\Project_BVYP_NoServices_2008.17.05.2015\Connection _db\obj\Release\Connection _db.pdb
+E:\Bacvd\BVYP_BACNINH\Project_BVYP_NoServices_2008.17.05.2015\Connection _db\bin\Release\Connection _db.exe
+E:\Bacvd\BVYP_BACNINH\Project_BVYP_NoServices_2008.17.05.2015\Connection _db\bin\Release\Connection _db.pdb
+E:\Bacvd\BVYP_BACNINH\Project_BVYP_NoServices_2008.17.05.2015\Connection _db\obj\Release\ResolveAssemblyReference.cache
+E:\Bacvd\BVYP_BACNINH\Project_BVYP_NoServices_2008.17.05.2015\Connection _db\obj\Release\Connection_db.Login_Database.resources
+E:\Bacvd\BVYP_BACNINH\Project_BVYP_NoServices_2008.17.05.2015\Connection _db\obj\Release\Connection_db.Properties.Resources.resources
+E:\Bacvd\BVYP_BACNINH\Project_BVYP_NoServices_2008.17.05.2015\Connection _db\obj\Release\Connection _db.csproj.GenerateResource.Cache
+E:\Bacvd\BVYP_BACNINH\Project_BVYP_NoServices_2008.17.05.2015\Connection _db\obj\Release\Connection _db.exe
+E:\Bacvd\BVYP_BACNINH\Project_BVYP_NoServices_2008.17.05.2015\Connection _db\obj\Release\Connection _db.pdb
+E:\Bacvd\BVYP_BACNINH\Project_BVYP019.06.2015\Connection _db\bin\Release\Connection _db.exe
+E:\Bacvd\BVYP_BACNINH\Project_BVYP019.06.2015\Connection _db\bin\Release\Connection _db.pdb
+E:\Bacvd\BVYP_BACNINH\Project_BVYP019.06.2015\Connection _db\obj\Release\ResolveAssemblyReference.cache
+E:\Bacvd\BVYP_BACNINH\Project_BVYP019.06.2015\Connection _db\obj\Release\Connection_db.Login_Database.resources
+E:\Bacvd\BVYP_BACNINH\Project_BVYP019.06.2015\Connection _db\obj\Release\Connection_db.Properties.Resources.resources
+E:\Bacvd\BVYP_BACNINH\Project_BVYP019.06.2015\Connection _db\obj\Release\Connection _db.csproj.GenerateResource.Cache
+E:\Bacvd\BVYP_BACNINH\Project_BVYP019.06.2015\Connection _db\obj\Release\Connection _db.exe
+E:\Bacvd\BVYP_BACNINH\Project_BVYP019.06.2015\Connection _db\obj\Release\Connection _db.pdb
+D:\TCSoft\PM_BenhVien\Project_BVYP22.06.2015\Project_BVYP22.06.2015\Connection _db\bin\Release\Connection _db.exe
+D:\TCSoft\PM_BenhVien\Project_BVYP22.06.2015\Project_BVYP22.06.2015\Connection _db\bin\Release\Connection _db.pdb
+D:\TCSoft\PM_BenhVien\Project_BVYP22.06.2015\Project_BVYP22.06.2015\Connection _db\obj\Release\ResolveAssemblyReference.cache
+D:\TCSoft\PM_BenhVien\Project_BVYP22.06.2015\Project_BVYP22.06.2015\Connection _db\obj\Release\Connection_db.Login_Database.resources
+D:\TCSoft\PM_BenhVien\Project_BVYP22.06.2015\Project_BVYP22.06.2015\Connection _db\obj\Release\Connection_db.Properties.Resources.resources
+D:\TCSoft\PM_BenhVien\Project_BVYP22.06.2015\Project_BVYP22.06.2015\Connection _db\obj\Release\Connection _db.csproj.GenerateResource.Cache
+D:\TCSoft\PM_BenhVien\Project_BVYP22.06.2015\Project_BVYP22.06.2015\Connection _db\obj\Release\Connection _db.exe
+D:\TCSoft\PM_BenhVien\Project_BVYP22.06.2015\Project_BVYP22.06.2015\Connection _db\obj\Release\Connection _db.pdb
+E:\Bacvd\BVYP_BACNINH\BN_NEW\Project_BVYP22.06.2015\Connection _db\bin\Release\Connection _db.exe
+E:\Bacvd\BVYP_BACNINH\BN_NEW\Project_BVYP22.06.2015\Connection _db\bin\Release\Connection _db.pdb
+E:\Bacvd\BVYP_BACNINH\BN_NEW\Project_BVYP22.06.2015\Connection _db\obj\Release\ResolveAssemblyReference.cache
+E:\Bacvd\BVYP_BACNINH\BN_NEW\Project_BVYP22.06.2015\Connection _db\obj\Release\Connection_db.Login_Database.resources
+E:\Bacvd\BVYP_BACNINH\BN_NEW\Project_BVYP22.06.2015\Connection _db\obj\Release\Connection_db.Properties.Resources.resources
+E:\Bacvd\BVYP_BACNINH\BN_NEW\Project_BVYP22.06.2015\Connection _db\obj\Release\Connection _db.csproj.GenerateResource.Cache
+E:\Bacvd\BVYP_BACNINH\BN_NEW\Project_BVYP22.06.2015\Connection _db\obj\Release\Connection _db.exe
+E:\Bacvd\BVYP_BACNINH\BN_NEW\Project_BVYP22.06.2015\Connection _db\obj\Release\Connection _db.pdb
+D:\Bacvd\Project_2015\Tcsoft\ProJect_Hospital\Project_PhongKham\Connection _db\bin\Release\Connection _db.dll
+D:\Bacvd\Project_2015\Tcsoft\ProJect_Hospital\Project_PhongKham\Connection _db\bin\Release\Connection _db.pdb
+D:\Bacvd\Project_2015\Tcsoft\ProJect_Hospital\Project_PhongKham\Connection _db\obj\Release\ResolveAssemblyReference.cache
+D:\Bacvd\Project_2015\Tcsoft\ProJect_Hospital\Project_PhongKham\Connection _db\obj\Release\Connection_db.Login_Database.resources
+D:\Bacvd\Project_2015\Tcsoft\ProJect_Hospital\Project_PhongKham\Connection _db\obj\Release\Connection_db.Properties.Resources.resources
+D:\Bacvd\Project_2015\Tcsoft\ProJect_Hospital\Project_PhongKham\Connection _db\obj\Release\Connection _db.csproj.GenerateResource.Cache
+D:\Bacvd\Project_2015\Tcsoft\ProJect_Hospital\Project_PhongKham\Connection _db\obj\Release\Connection _db.dll
+D:\Bacvd\Project_2015\Tcsoft\ProJect_Hospital\Project_PhongKham\Connection _db\obj\Release\Connection _db.pdb
+D:\Bacvd\Project_2015\Tcsoft\ProJect_PhongKhamTuNhan\Project_PK_LAOS\Connection _db\bin\Release\Connection _db.dll
+D:\Bacvd\Project_2015\Tcsoft\ProJect_PhongKhamTuNhan\Project_PK_LAOS\Connection _db\bin\Release\Connection _db.pdb
+D:\Bacvd\Project_2015\Tcsoft\ProJect_PhongKhamTuNhan\Project_PK_LAOS\Connection _db\obj\Release\ResolveAssemblyReference.cache
+D:\Bacvd\Project_2015\Tcsoft\ProJect_PhongKhamTuNhan\Project_PK_LAOS\Connection _db\obj\Release\Connection_db.Login_Database.resources
+D:\Bacvd\Project_2015\Tcsoft\ProJect_PhongKhamTuNhan\Project_PK_LAOS\Connection _db\obj\Release\Connection_db.Properties.Resources.resources
+D:\Bacvd\Project_2015\Tcsoft\ProJect_PhongKhamTuNhan\Project_PK_LAOS\Connection _db\obj\Release\Connection _db.csproj.GenerateResource.Cache
+D:\Bacvd\Project_2015\Tcsoft\ProJect_PhongKhamTuNhan\Project_PK_LAOS\Connection _db\obj\Release\Connection _db.dll
+D:\Bacvd\Project_2015\Tcsoft\ProJect_PhongKhamTuNhan\Project_PK_LAOS\Connection _db\obj\Release\Connection _db.pdb

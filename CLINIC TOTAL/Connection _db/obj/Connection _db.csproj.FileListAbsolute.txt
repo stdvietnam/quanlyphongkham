@@ -1,0 +1,233 @@
+E:\THANG-PC\CSharp\Connection _db\Connection _db\obj\Debug\ResolveAssemblyReference.cache
+E:\THANG-PC\CSharp\Connection _db\Connection _db\obj\Debug\Connection_db.Form1.resources
+E:\THANG-PC\CSharp\Connection _db\Connection _db\obj\Debug\Connection_db.Properties.Resources.resources
+E:\THANG-PC\CSharp\Connection _db\Connection _db\obj\Debug\Connection _db.csproj.GenerateResource.Cache
+E:\THANG-PC\CSharp\Connection _db\Connection _db\bin\Debug\Connection _db.exe
+E:\THANG-PC\CSharp\Connection _db\Connection _db\bin\Debug\Connection _db.pdb
+E:\THANG-PC\CSharp\Connection _db\Connection _db\obj\Debug\Connection _db.exe
+E:\THANG-PC\CSharp\Connection _db\Connection _db\obj\Debug\Connection _db.pdb
+E:\THANG-PC\CSharp\Connection _db\Connection _db\obj\Debug\Connection_db.Login_Database.resources
+C:\Users\THANG\Desktop\Connection _db\Connection _db\obj\Debug\Connection _db.exe
+C:\Users\THANG\Desktop\Connection _db\Connection _db\obj\Debug\Connection _db.pdb
+C:\Users\THANG\Desktop\Connection _db\Connection _db\bin\Debug\Connection _db.exe
+C:\Users\THANG\Desktop\Connection _db\Connection _db\bin\Debug\Connection _db.pdb
+C:\Users\THANG\Desktop\Connection _db\Connection _db\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\THANG\Desktop\Connection _db\Connection _db\obj\Debug\Connection_db.Login_Database.resources
+C:\Users\THANG\Desktop\Connection _db\Connection _db\obj\Debug\Connection_db.Properties.Resources.resources
+C:\Users\THANG\Desktop\Connection _db\Connection _db\obj\Debug\Connection _db.csproj.GenerateResource.Cache
+E:\TCSOFT\DUAN\TCSOFT\TCSOFT\Connection _db\bin\Debug\Connection _db.exe
+E:\TCSOFT\DUAN\TCSOFT\TCSOFT\Connection _db\bin\Debug\Connection _db.pdb
+E:\TCSOFT\DUAN\TCSOFT\TCSOFT\Connection _db\obj\Debug\ResolveAssemblyReference.cache
+E:\TCSOFT\DUAN\TCSOFT\TCSOFT\Connection _db\obj\Debug\Connection_db.Login_Database.resources
+E:\TCSOFT\DUAN\TCSOFT\TCSOFT\Connection _db\obj\Debug\Connection_db.Properties.Resources.resources
+E:\TCSOFT\DUAN\TCSOFT\TCSOFT\Connection _db\obj\Debug\Connection _db.csproj.GenerateResource.Cache
+E:\TCSOFT\DUAN\TCSOFT\TCSOFT\Connection _db\obj\Debug\Connection _db.exe
+E:\TCSOFT\DUAN\TCSOFT\TCSOFT\Connection _db\obj\Debug\Connection _db.pdb
+E:\PHANMEM\1.DUAN\DUAN_2011\2.KHOA_LUUMY\TCSOFT\Connection _db\bin\Debug\Connection _db.exe
+E:\PHANMEM\1.DUAN\DUAN_2011\2.KHOA_LUUMY\TCSOFT\Connection _db\bin\Debug\Connection _db.pdb
+E:\PHANMEM\1.DUAN\DUAN_2011\2.KHOA_LUUMY\TCSOFT\Connection _db\obj\Debug\ResolveAssemblyReference.cache
+E:\PHANMEM\1.DUAN\DUAN_2011\2.KHOA_LUUMY\TCSOFT\Connection _db\obj\Debug\Connection_db.Login_Database.resources
+E:\PHANMEM\1.DUAN\DUAN_2011\2.KHOA_LUUMY\TCSOFT\Connection _db\obj\Debug\Connection_db.Properties.Resources.resources
+E:\PHANMEM\1.DUAN\DUAN_2011\2.KHOA_LUUMY\TCSOFT\Connection _db\obj\Debug\Connection _db.csproj.GenerateResource.Cache
+E:\PHANMEM\1.DUAN\DUAN_2011\2.KHOA_LUUMY\TCSOFT\Connection _db\obj\Debug\Connection _db.exe
+E:\PHANMEM\1.DUAN\DUAN_2011\2.KHOA_LUUMY\TCSOFT\Connection _db\obj\Debug\Connection _db.pdb
+E:\PHANMEM\1.DUAN\Code_new\Connection _db\bin\Debug\Connection _db.exe
+E:\PHANMEM\1.DUAN\Code_new\Connection _db\bin\Debug\Connection _db.pdb
+E:\PHANMEM\1.DUAN\Code_new\Connection _db\obj\Debug\ResolveAssemblyReference.cache
+E:\PHANMEM\1.DUAN\Code_new\Connection _db\obj\Debug\Connection_db.Login_Database.resources
+E:\PHANMEM\1.DUAN\Code_new\Connection _db\obj\Debug\Connection_db.Properties.Resources.resources
+E:\PHANMEM\1.DUAN\Code_new\Connection _db\obj\Debug\Connection _db.csproj.GenerateResource.Cache
+E:\PHANMEM\1.DUAN\Code_new\Connection _db\obj\Debug\Connection _db.exe
+E:\PHANMEM\1.DUAN\Code_new\Connection _db\obj\Debug\Connection _db.pdb
+E:\BACVD\1. DUAN\Quan ly phong kham\PK_DTTW\DTTW\Connection _db\bin\Debug\Connection _db.exe
+E:\BACVD\1. DUAN\Quan ly phong kham\PK_DTTW\DTTW\Connection _db\bin\Debug\Connection _db.pdb
+E:\BACVD\1. DUAN\Quan ly phong kham\PK_DTTW\DTTW\Connection _db\obj\Debug\ResolveAssemblyReference.cache
+E:\BACVD\1. DUAN\Quan ly phong kham\PK_DTTW\DTTW\Connection _db\obj\Debug\Connection_db.Login_Database.resources
+E:\BACVD\1. DUAN\Quan ly phong kham\PK_DTTW\DTTW\Connection _db\obj\Debug\Connection_db.Properties.Resources.resources
+E:\BACVD\1. DUAN\Quan ly phong kham\PK_DTTW\DTTW\Connection _db\obj\Debug\Connection _db.csproj.GenerateResource.Cache
+E:\BACVD\1. DUAN\Quan ly phong kham\PK_DTTW\DTTW\Connection _db\obj\Debug\Connection _db.exe
+E:\BACVD\1. DUAN\Quan ly phong kham\PK_DTTW\DTTW\Connection _db\obj\Debug\Connection _db.pdb
+E:\BACVD\1. DUAN\2012\THANH HOA\PM_SMART_TTP\KeToan_baohanh\Connection _db\bin\Debug\Connection _db.exe
+E:\BACVD\1. DUAN\2012\THANH HOA\PM_SMART_TTP\KeToan_baohanh\Connection _db\bin\Debug\Connection _db.pdb
+E:\BACVD\1. DUAN\2012\THANH HOA\PM_SMART_TTP\KeToan_baohanh\Connection _db\obj\Debug\ResolveAssemblyReference.cache
+E:\BACVD\1. DUAN\2012\THANH HOA\PM_SMART_TTP\KeToan_baohanh\Connection _db\obj\Debug\Connection_db.Login_Database.resources
+E:\BACVD\1. DUAN\2012\THANH HOA\PM_SMART_TTP\KeToan_baohanh\Connection _db\obj\Debug\Connection_db.Properties.Resources.resources
+E:\BACVD\1. DUAN\2012\THANH HOA\PM_SMART_TTP\KeToan_baohanh\Connection _db\obj\Debug\Connection _db.csproj.GenerateResource.Cache
+E:\BACVD\1. DUAN\2012\THANH HOA\PM_SMART_TTP\KeToan_baohanh\Connection _db\obj\Debug\Connection _db.exe
+E:\BACVD\1. DUAN\2012\THANH HOA\PM_SMART_TTP\KeToan_baohanh\Connection _db\obj\Debug\Connection _db.pdb
+E:\BACVD\1. DUAN\2012\THANH HOA\PM_SMART_TTP\PM_Ketoan_NEW\Connection _db\bin\Debug\Connection _db.exe
+E:\BACVD\1. DUAN\2012\THANH HOA\PM_SMART_TTP\PM_Ketoan_NEW\Connection _db\bin\Debug\Connection _db.pdb
+E:\BACVD\1. DUAN\2012\THANH HOA\PM_SMART_TTP\PM_Ketoan_NEW\Connection _db\obj\Debug\ResolveAssemblyReference.cache
+E:\BACVD\1. DUAN\2012\THANH HOA\PM_SMART_TTP\PM_Ketoan_NEW\Connection _db\obj\Debug\Connection_db.Login_Database.resources
+E:\BACVD\1. DUAN\2012\THANH HOA\PM_SMART_TTP\PM_Ketoan_NEW\Connection _db\obj\Debug\Connection_db.Properties.Resources.resources
+E:\BACVD\1. DUAN\2012\THANH HOA\PM_SMART_TTP\PM_Ketoan_NEW\Connection _db\obj\Debug\Connection _db.csproj.GenerateResource.Cache
+E:\BACVD\1. DUAN\2012\THANH HOA\PM_SMART_TTP\PM_Ketoan_NEW\Connection _db\obj\Debug\Connection _db.exe
+E:\BACVD\1. DUAN\2012\THANH HOA\PM_SMART_TTP\PM_Ketoan_NEW\Connection _db\obj\Debug\Connection _db.pdb
+E:\BACVD\1. DUAN\2012\THANH HOA\PM_SMART_TTP\PM_Ketoan_TESTBH\Connection _db\bin\Debug\Connection _db.exe
+E:\BACVD\1. DUAN\2012\THANH HOA\PM_SMART_TTP\PM_Ketoan_TESTBH\Connection _db\bin\Debug\Connection _db.pdb
+E:\BACVD\1. DUAN\2012\THANH HOA\PM_SMART_TTP\PM_Ketoan_TESTBH\Connection _db\obj\Debug\ResolveAssemblyReference.cache
+E:\BACVD\1. DUAN\2012\THANH HOA\PM_SMART_TTP\PM_Ketoan_TESTBH\Connection _db\obj\Debug\Connection_db.Login_Database.resources
+E:\BACVD\1. DUAN\2012\THANH HOA\PM_SMART_TTP\PM_Ketoan_TESTBH\Connection _db\obj\Debug\Connection_db.Properties.Resources.resources
+E:\BACVD\1. DUAN\2012\THANH HOA\PM_SMART_TTP\PM_Ketoan_TESTBH\Connection _db\obj\Debug\Connection _db.csproj.GenerateResource.Cache
+E:\BACVD\1. DUAN\2012\THANH HOA\PM_SMART_TTP\PM_Ketoan_TESTBH\Connection _db\obj\Debug\Connection _db.exe
+E:\BACVD\1. DUAN\2012\THANH HOA\PM_SMART_TTP\PM_Ketoan_TESTBH\Connection _db\obj\Debug\Connection _db.pdb
+E:\Ketoan_BH\Thanh Hoa\Anh_Hung G8\2013\PM_BANHANG_2013\Connection _db\bin\Debug\Connection _db.exe
+E:\Ketoan_BH\Thanh Hoa\Anh_Hung G8\2013\PM_BANHANG_2013\Connection _db\bin\Debug\Connection _db.pdb
+E:\Ketoan_BH\Thanh Hoa\Anh_Hung G8\2013\PM_BANHANG_2013\Connection _db\obj\Debug\ResolveAssemblyReference.cache
+E:\Ketoan_BH\Thanh Hoa\Anh_Hung G8\2013\PM_BANHANG_2013\Connection _db\obj\Debug\Connection_db.Login_Database.resources
+E:\Ketoan_BH\Thanh Hoa\Anh_Hung G8\2013\PM_BANHANG_2013\Connection _db\obj\Debug\Connection_db.Properties.Resources.resources
+E:\Ketoan_BH\Thanh Hoa\Anh_Hung G8\2013\PM_BANHANG_2013\Connection _db\obj\Debug\Connection _db.csproj.GenerateResource.Cache
+E:\Ketoan_BH\Thanh Hoa\Anh_Hung G8\2013\PM_BANHANG_2013\Connection _db\obj\Debug\Connection _db.exe
+E:\Ketoan_BH\Thanh Hoa\Anh_Hung G8\2013\PM_BANHANG_2013\Connection _db\obj\Debug\Connection _db.pdb
+E:\BACVD\1. DUAN\2012\THANH HOA\G8_2013\PM_BANHANG_2013\Connection _db\bin\Debug\Connection _db.exe
+E:\BACVD\1. DUAN\2012\THANH HOA\G8_2013\PM_BANHANG_2013\Connection _db\bin\Debug\Connection _db.pdb
+E:\BACVD\1. DUAN\2012\THANH HOA\G8_2013\PM_BANHANG_2013\Connection _db\obj\Debug\ResolveAssemblyReference.cache
+E:\BACVD\1. DUAN\2012\THANH HOA\G8_2013\PM_BANHANG_2013\Connection _db\obj\Debug\Connection_db.Login_Database.resources
+E:\BACVD\1. DUAN\2012\THANH HOA\G8_2013\PM_BANHANG_2013\Connection _db\obj\Debug\Connection_db.Properties.Resources.resources
+E:\BACVD\1. DUAN\2012\THANH HOA\G8_2013\PM_BANHANG_2013\Connection _db\obj\Debug\Connection _db.csproj.GenerateResource.Cache
+E:\BACVD\1. DUAN\2012\THANH HOA\G8_2013\PM_BANHANG_2013\Connection _db\obj\Debug\Connection _db.exe
+E:\BACVD\1. DUAN\2012\THANH HOA\G8_2013\PM_BANHANG_2013\Connection _db\obj\Debug\Connection _db.pdb
+E:\BACVD\1. DUAN\2013\THANH HOA\G8\PM_BANHANG_2013\Connection _db\bin\Debug\Connection _db.exe
+E:\BACVD\1. DUAN\2013\THANH HOA\G8\PM_BANHANG_2013\Connection _db\bin\Debug\Connection _db.pdb
+E:\BACVD\1. DUAN\2013\THANH HOA\G8\PM_BANHANG_2013\Connection _db\obj\Debug\ResolveAssemblyReference.cache
+E:\BACVD\1. DUAN\2013\THANH HOA\G8\PM_BANHANG_2013\Connection _db\obj\Debug\Connection_db.Login_Database.resources
+E:\BACVD\1. DUAN\2013\THANH HOA\G8\PM_BANHANG_2013\Connection _db\obj\Debug\Connection_db.Properties.Resources.resources
+E:\BACVD\1. DUAN\2013\THANH HOA\G8\PM_BANHANG_2013\Connection _db\obj\Debug\Connection _db.csproj.GenerateResource.Cache
+E:\BACVD\1. DUAN\2013\THANH HOA\G8\PM_BANHANG_2013\Connection _db\obj\Debug\Connection _db.exe
+E:\BACVD\1. DUAN\2013\THANH HOA\G8\PM_BANHANG_2013\Connection _db\obj\Debug\Connection _db.pdb
+E:\1.PHANMEM_CUOI_BACCOI\Code_DuAn_BacCoi\1. DUAN\2013\THANH HOA\G8\PM_BANHANG_2013\Connection _db\bin\Debug\Connection _db.exe
+E:\1.PHANMEM_CUOI_BACCOI\Code_DuAn_BacCoi\1. DUAN\2013\THANH HOA\G8\PM_BANHANG_2013\Connection _db\bin\Debug\Connection _db.pdb
+E:\1.PHANMEM_CUOI_BACCOI\Code_DuAn_BacCoi\1. DUAN\2013\THANH HOA\G8\PM_BANHANG_2013\Connection _db\obj\Debug\ResolveAssemblyReference.cache
+E:\1.PHANMEM_CUOI_BACCOI\Code_DuAn_BacCoi\1. DUAN\2013\THANH HOA\G8\PM_BANHANG_2013\Connection _db\obj\Debug\Connection_db.Login_Database.resources
+E:\1.PHANMEM_CUOI_BACCOI\Code_DuAn_BacCoi\1. DUAN\2013\THANH HOA\G8\PM_BANHANG_2013\Connection _db\obj\Debug\Connection_db.Properties.Resources.resources
+E:\1.PHANMEM_CUOI_BACCOI\Code_DuAn_BacCoi\1. DUAN\2013\THANH HOA\G8\PM_BANHANG_2013\Connection _db\obj\Debug\Connection _db.csproj.GenerateResource.Cache
+E:\1.PHANMEM_CUOI_BACCOI\Code_DuAn_BacCoi\1. DUAN\2013\THANH HOA\G8\PM_BANHANG_2013\Connection _db\obj\Debug\Connection _db.exe
+E:\1.PHANMEM_CUOI_BACCOI\Code_DuAn_BacCoi\1. DUAN\2013\THANH HOA\G8\PM_BANHANG_2013\Connection _db\obj\Debug\Connection _db.pdb
+E:\BACVD\1. DUAN\2013\THANH HOA\G8\Code_New\PM_BANHANG_2013\Connection _db\bin\Debug\Connection _db.exe
+E:\BACVD\1. DUAN\2013\THANH HOA\G8\Code_New\PM_BANHANG_2013\Connection _db\bin\Debug\Connection _db.pdb
+E:\BACVD\1. DUAN\2013\THANH HOA\G8\Code_New\PM_BANHANG_2013\Connection _db\obj\Debug\ResolveAssemblyReference.cache
+E:\BACVD\1. DUAN\2013\THANH HOA\G8\Code_New\PM_BANHANG_2013\Connection _db\obj\Debug\Connection_db.Login_Database.resources
+E:\BACVD\1. DUAN\2013\THANH HOA\G8\Code_New\PM_BANHANG_2013\Connection _db\obj\Debug\Connection_db.Properties.Resources.resources
+E:\BACVD\1. DUAN\2013\THANH HOA\G8\Code_New\PM_BANHANG_2013\Connection _db\obj\Debug\Connection _db.csproj.GenerateResource.Cache
+E:\BACVD\1. DUAN\2013\THANH HOA\G8\Code_New\PM_BANHANG_2013\Connection _db\obj\Debug\Connection _db.exe
+E:\BACVD\1. DUAN\2013\THANH HOA\G8\Code_New\PM_BANHANG_2013\Connection _db\obj\Debug\Connection _db.pdb
+E:\BACVD\1. DUAN\2013\PM_BANHANG_MAYTINH\Project_CRM\Connection _db\bin\Release\Connection _db.exe
+E:\BACVD\1. DUAN\2013\PM_BANHANG_MAYTINH\Project_CRM\Connection _db\bin\Release\Connection _db.pdb
+E:\BACVD\1. DUAN\2013\PM_BANHANG_MAYTINH\Project_CRM\Connection _db\obj\Release\ResolveAssemblyReference.cache
+E:\BACVD\1. DUAN\2013\PM_BANHANG_MAYTINH\Project_CRM\Connection _db\obj\Release\Connection_db.Login_Database.resources
+E:\BACVD\1. DUAN\2013\PM_BANHANG_MAYTINH\Project_CRM\Connection _db\obj\Release\Connection_db.Properties.Resources.resources
+E:\BACVD\1. DUAN\2013\PM_BANHANG_MAYTINH\Project_CRM\Connection _db\obj\Release\Connection _db.csproj.GenerateResource.Cache
+E:\BACVD\1. DUAN\2013\PM_BANHANG_MAYTINH\Project_CRM\Connection _db\obj\Release\Connection _db.exe
+E:\BACVD\1. DUAN\2013\PM_BANHANG_MAYTINH\Project_CRM\Connection _db\obj\Release\Connection _db.pdb
+E:\BACVD\1. DUAN\2013\PM_BANHANG_MAYTINH\Project_CRM\Connection _db\bin\Debug\Connection _db.exe
+E:\BACVD\1. DUAN\2013\PM_BANHANG_MAYTINH\Project_CRM\Connection _db\bin\Debug\Connection _db.pdb
+E:\BACVD\1. DUAN\2013\PM_BANHANG_MAYTINH\Project_CRM\Connection _db\obj\Debug\ResolveAssemblyReference.cache
+E:\BACVD\1. DUAN\2013\PM_BANHANG_MAYTINH\Project_CRM\Connection _db\obj\Debug\Connection_db.Login_Database.resources
+E:\BACVD\1. DUAN\2013\PM_BANHANG_MAYTINH\Project_CRM\Connection _db\obj\Debug\Connection_db.Properties.Resources.resources
+E:\BACVD\1. DUAN\2013\PM_BANHANG_MAYTINH\Project_CRM\Connection _db\obj\Debug\Connection _db.csproj.GenerateResource.Cache
+E:\BACVD\1. DUAN\2013\PM_BANHANG_MAYTINH\Project_CRM\Connection _db\obj\Debug\Connection _db.exe
+E:\BACVD\1. DUAN\2013\PM_BANHANG_MAYTINH\Project_CRM\Connection _db\obj\Debug\Connection _db.pdb
+E:\BACVD\1. DUAN\2013\PM_BANHANG_MAYTINH\Connection _db\bin\Debug\Connection _db.exe
+E:\BACVD\1. DUAN\2013\PM_BANHANG_MAYTINH\Connection _db\bin\Debug\Connection _db.pdb
+E:\BACVD\1. DUAN\2013\PM_BANHANG_MAYTINH\Connection _db\obj\Debug\ResolveAssemblyReference.cache
+E:\BACVD\1. DUAN\2013\PM_BANHANG_MAYTINH\Connection _db\obj\Debug\Connection_db.Login_Database.resources
+E:\BACVD\1. DUAN\2013\PM_BANHANG_MAYTINH\Connection _db\obj\Debug\Connection_db.Properties.Resources.resources
+E:\BACVD\1. DUAN\2013\PM_BANHANG_MAYTINH\Connection _db\obj\Debug\Connection _db.csproj.GenerateResource.Cache
+E:\BACVD\1. DUAN\2013\PM_BANHANG_MAYTINH\Connection _db\obj\Debug\Connection _db.exe
+E:\BACVD\1. DUAN\2013\PM_BANHANG_MAYTINH\Connection _db\obj\Debug\Connection _db.pdb
+E:\BACVD\1. DUAN\2013\NGHE AN\CTY CP PHU THANH\Connection _db\bin\Debug\Connection _db.exe
+E:\BACVD\1. DUAN\2013\NGHE AN\CTY CP PHU THANH\Connection _db\bin\Debug\Connection _db.pdb
+E:\BACVD\1. DUAN\2013\NGHE AN\CTY CP PHU THANH\Connection _db\obj\Debug\ResolveAssemblyReference.cache
+E:\BACVD\1. DUAN\2013\NGHE AN\CTY CP PHU THANH\Connection _db\obj\Debug\Connection_db.Login_Database.resources
+E:\BACVD\1. DUAN\2013\NGHE AN\CTY CP PHU THANH\Connection _db\obj\Debug\Connection_db.Properties.Resources.resources
+E:\BACVD\1. DUAN\2013\NGHE AN\CTY CP PHU THANH\Connection _db\obj\Debug\Connection _db.csproj.GenerateResource.Cache
+E:\BACVD\1. DUAN\2013\NGHE AN\CTY CP PHU THANH\Connection _db\obj\Debug\Connection _db.exe
+E:\BACVD\1. DUAN\2013\NGHE AN\CTY CP PHU THANH\Connection _db\obj\Debug\Connection _db.pdb
+E:\BACVD\1. DUAN\2013\PM_BANHANG_MAYTINH\TCSOFT_CRM_CHUAN\Connection _db\bin\Debug\Connection _db.exe
+E:\BACVD\1. DUAN\2013\PM_BANHANG_MAYTINH\TCSOFT_CRM_CHUAN\Connection _db\bin\Debug\Connection _db.pdb
+E:\BACVD\1. DUAN\2013\PM_BANHANG_MAYTINH\TCSOFT_CRM_CHUAN\Connection _db\obj\Debug\ResolveAssemblyReference.cache
+E:\BACVD\1. DUAN\2013\PM_BANHANG_MAYTINH\TCSOFT_CRM_CHUAN\Connection _db\obj\Debug\Connection_db.Login_Database.resources
+E:\BACVD\1. DUAN\2013\PM_BANHANG_MAYTINH\TCSOFT_CRM_CHUAN\Connection _db\obj\Debug\Connection_db.Properties.Resources.resources
+E:\BACVD\1. DUAN\2013\PM_BANHANG_MAYTINH\TCSOFT_CRM_CHUAN\Connection _db\obj\Debug\Connection _db.csproj.GenerateResource.Cache
+E:\BACVD\1. DUAN\2013\PM_BANHANG_MAYTINH\TCSOFT_CRM_CHUAN\Connection _db\obj\Debug\Connection _db.exe
+E:\BACVD\1. DUAN\2013\PM_BANHANG_MAYTINH\TCSOFT_CRM_CHUAN\Connection _db\obj\Debug\Connection _db.pdb
+E:\BACVD\1. DUAN\2013\THANH HOA\PM_TAN THANH PHUONG\Connection _db\bin\Debug\Connection _db.exe
+E:\BACVD\1. DUAN\2013\THANH HOA\PM_TAN THANH PHUONG\Connection _db\bin\Debug\Connection _db.pdb
+E:\BACVD\1. DUAN\2013\THANH HOA\PM_TAN THANH PHUONG\Connection _db\obj\Debug\ResolveAssemblyReference.cache
+E:\BACVD\1. DUAN\2013\THANH HOA\PM_TAN THANH PHUONG\Connection _db\obj\Debug\Connection_db.Login_Database.resources
+E:\BACVD\1. DUAN\2013\THANH HOA\PM_TAN THANH PHUONG\Connection _db\obj\Debug\Connection_db.Properties.Resources.resources
+E:\BACVD\1. DUAN\2013\THANH HOA\PM_TAN THANH PHUONG\Connection _db\obj\Debug\Connection _db.csproj.GenerateResource.Cache
+E:\BACVD\1. DUAN\2013\THANH HOA\PM_TAN THANH PHUONG\Connection _db\obj\Debug\Connection _db.exe
+E:\BACVD\1. DUAN\2013\THANH HOA\PM_TAN THANH PHUONG\Connection _db\obj\Debug\Connection _db.pdb
+E:\BACVD\1. DUAN\2013\NINH BINH\MAY TINH VUONG TRUONG\Connection _db\bin\Debug\Connection _db.exe
+E:\BACVD\1. DUAN\2013\NINH BINH\MAY TINH VUONG TRUONG\Connection _db\bin\Debug\Connection _db.pdb
+E:\BACVD\1. DUAN\2013\NINH BINH\MAY TINH VUONG TRUONG\Connection _db\obj\Debug\ResolveAssemblyReference.cache
+E:\BACVD\1. DUAN\2013\NINH BINH\MAY TINH VUONG TRUONG\Connection _db\obj\Debug\Connection_db.Login_Database.resources
+E:\BACVD\1. DUAN\2013\NINH BINH\MAY TINH VUONG TRUONG\Connection _db\obj\Debug\Connection_db.Properties.Resources.resources
+E:\BACVD\1. DUAN\2013\NINH BINH\MAY TINH VUONG TRUONG\Connection _db\obj\Debug\Connection _db.csproj.GenerateResource.Cache
+E:\BACVD\1. DUAN\2013\NINH BINH\MAY TINH VUONG TRUONG\Connection _db\obj\Debug\Connection _db.exe
+E:\BACVD\1. DUAN\2013\NINH BINH\MAY TINH VUONG TRUONG\Connection _db\obj\Debug\Connection _db.pdb
+E:\BACVD\1. DUAN\2013\NAM DINH\THUAN AN PM 5.0\Connection _db\bin\Debug\Connection _db.exe
+E:\BACVD\1. DUAN\2013\NAM DINH\THUAN AN PM 5.0\Connection _db\bin\Debug\Connection _db.pdb
+E:\BACVD\1. DUAN\2013\NAM DINH\THUAN AN PM 5.0\Connection _db\obj\Debug\ResolveAssemblyReference.cache
+E:\BACVD\1. DUAN\2013\NAM DINH\THUAN AN PM 5.0\Connection _db\obj\Debug\Connection_db.Login_Database.resources
+E:\BACVD\1. DUAN\2013\NAM DINH\THUAN AN PM 5.0\Connection _db\obj\Debug\Connection_db.Properties.Resources.resources
+E:\BACVD\1. DUAN\2013\NAM DINH\THUAN AN PM 5.0\Connection _db\obj\Debug\Connection _db.csproj.GenerateResource.Cache
+E:\BACVD\1. DUAN\2013\NAM DINH\THUAN AN PM 5.0\Connection _db\obj\Debug\Connection _db.exe
+E:\BACVD\1. DUAN\2013\NAM DINH\THUAN AN PM 5.0\Connection _db\obj\Debug\Connection _db.pdb
+D:\Bacvd\ThuanAn\New folder\Connection _db\bin\Debug\Connection _db.exe
+D:\Bacvd\ThuanAn\New folder\Connection _db\bin\Debug\Connection _db.pdb
+D:\Bacvd\ThuanAn\New folder\Connection _db\obj\Debug\ResolveAssemblyReference.cache
+D:\Bacvd\ThuanAn\New folder\Connection _db\obj\Debug\Connection_db.Login_Database.resources
+D:\Bacvd\ThuanAn\New folder\Connection _db\obj\Debug\Connection_db.Properties.Resources.resources
+D:\Bacvd\ThuanAn\New folder\Connection _db\obj\Debug\Connection _db.csproj.GenerateResource.Cache
+D:\Bacvd\ThuanAn\New folder\Connection _db\obj\Debug\Connection _db.exe
+D:\Bacvd\ThuanAn\New folder\Connection _db\obj\Debug\Connection _db.pdb
+D:\Bacvd\ThuanAn\Project - Copy\Connection _db\bin\Debug\Connection _db.exe
+D:\Bacvd\ThuanAn\Project - Copy\Connection _db\bin\Debug\Connection _db.pdb
+D:\Bacvd\ThuanAn\Project - Copy\Connection _db\obj\Debug\ResolveAssemblyReference.cache
+D:\Bacvd\ThuanAn\Project - Copy\Connection _db\obj\Debug\Connection_db.Login_Database.resources
+D:\Bacvd\ThuanAn\Project - Copy\Connection _db\obj\Debug\Connection_db.Properties.Resources.resources
+D:\Bacvd\ThuanAn\Project - Copy\Connection _db\obj\Debug\Connection _db.csproj.GenerateResource.Cache
+D:\Bacvd\ThuanAn\Project - Copy\Connection _db\obj\Debug\Connection _db.exe
+D:\Bacvd\ThuanAn\Project - Copy\Connection _db\obj\Debug\Connection _db.pdb
+D:\Bacvd\NAM DINH\ThuanAn\Project - Copy\Connection _db\bin\Debug\Connection _db.exe
+D:\Bacvd\NAM DINH\ThuanAn\Project - Copy\Connection _db\bin\Debug\Connection _db.pdb
+D:\Bacvd\NAM DINH\ThuanAn\Project - Copy\Connection _db\obj\Debug\ResolveAssemblyReference.cache
+D:\Bacvd\NAM DINH\ThuanAn\Project - Copy\Connection _db\obj\Debug\Connection_db.Login_Database.resources
+D:\Bacvd\NAM DINH\ThuanAn\Project - Copy\Connection _db\obj\Debug\Connection_db.Properties.Resources.resources
+D:\Bacvd\NAM DINH\ThuanAn\Project - Copy\Connection _db\obj\Debug\Connection _db.csproj.GenerateResource.Cache
+D:\Bacvd\NAM DINH\ThuanAn\Project - Copy\Connection _db\obj\Debug\Connection _db.exe
+D:\Bacvd\NAM DINH\ThuanAn\Project - Copy\Connection _db\obj\Debug\Connection _db.pdb
+D:\Bacvd\NAM DINH\ThuanAn\Project\Connection _db\bin\Debug\Connection _db.exe
+D:\Bacvd\NAM DINH\ThuanAn\Project\Connection _db\bin\Debug\Connection _db.pdb
+D:\Bacvd\NAM DINH\ThuanAn\Project\Connection _db\obj\Debug\ResolveAssemblyReference.cache
+D:\Bacvd\NAM DINH\ThuanAn\Project\Connection _db\obj\Debug\Connection_db.Login_Database.resources
+D:\Bacvd\NAM DINH\ThuanAn\Project\Connection _db\obj\Debug\Connection_db.Properties.Resources.resources
+D:\Bacvd\NAM DINH\ThuanAn\Project\Connection _db\obj\Debug\Connection _db.csproj.GenerateResource.Cache
+D:\Bacvd\NAM DINH\ThuanAn\Project\Connection _db\obj\Debug\Connection _db.exe
+D:\Bacvd\NAM DINH\ThuanAn\Project\Connection _db\obj\Debug\Connection _db.pdb
+D:\1.DuAn\NAM DINH\ThuanAn\Project\Connection _db\bin\Debug\Connection _db.exe
+D:\1.DuAn\NAM DINH\ThuanAn\Project\Connection _db\bin\Debug\Connection _db.pdb
+D:\1.DuAn\NAM DINH\ThuanAn\Project\Connection _db\obj\Debug\ResolveAssemblyReference.cache
+D:\1.DuAn\NAM DINH\ThuanAn\Project\Connection _db\obj\Debug\Connection_db.Login_Database.resources
+D:\1.DuAn\NAM DINH\ThuanAn\Project\Connection _db\obj\Debug\Connection_db.Properties.Resources.resources
+D:\1.DuAn\NAM DINH\ThuanAn\Project\Connection _db\obj\Debug\Connection _db.csproj.GenerateResource.Cache
+D:\1.DuAn\NAM DINH\ThuanAn\Project\Connection _db\obj\Debug\Connection _db.exe
+D:\1.DuAn\NAM DINH\ThuanAn\Project\Connection _db\obj\Debug\Connection _db.pdb
+D:\1.DuAn\NAM DINH\Project_ThuanAnV5\Connection _db\bin\Debug\Connection _db.exe
+D:\1.DuAn\NAM DINH\Project_ThuanAnV5\Connection _db\bin\Debug\Connection _db.pdb
+D:\1.DuAn\NAM DINH\Project_ThuanAnV5\Connection _db\obj\Debug\ResolveAssemblyReference.cache
+D:\1.DuAn\NAM DINH\Project_ThuanAnV5\Connection _db\obj\Debug\Connection_db.Login_Database.resources
+D:\1.DuAn\NAM DINH\Project_ThuanAnV5\Connection _db\obj\Debug\Connection_db.Properties.Resources.resources
+D:\1.DuAn\NAM DINH\Project_ThuanAnV5\Connection _db\obj\Debug\Connection _db.csproj.GenerateResource.Cache
+D:\1.DuAn\NAM DINH\Project_ThuanAnV5\Connection _db\obj\Debug\Connection _db.exe
+D:\1.DuAn\NAM DINH\Project_ThuanAnV5\Connection _db\obj\Debug\Connection _db.pdb
+D:\1.DuAn\BAC NINH\DEMO_PM_PHONGKHAM\Connection _db\bin\Debug\Connection _db.exe
+D:\1.DuAn\BAC NINH\DEMO_PM_PHONGKHAM\Connection _db\bin\Debug\Connection _db.pdb
+D:\1.DuAn\BAC NINH\DEMO_PM_PHONGKHAM\Connection _db\obj\Debug\ResolveAssemblyReference.cache
+D:\1.DuAn\BAC NINH\DEMO_PM_PHONGKHAM\Connection _db\obj\Debug\Connection_db.Login_Database.resources
+D:\1.DuAn\BAC NINH\DEMO_PM_PHONGKHAM\Connection _db\obj\Debug\Connection_db.Properties.Resources.resources
+D:\1.DuAn\BAC NINH\DEMO_PM_PHONGKHAM\Connection _db\obj\Debug\Connection _db.csproj.GenerateResource.Cache
+D:\1.DuAn\BAC NINH\DEMO_PM_PHONGKHAM\Connection _db\obj\Debug\Connection _db.exe
+D:\1.DuAn\BAC NINH\DEMO_PM_PHONGKHAM\Connection _db\obj\Debug\Connection _db.pdb

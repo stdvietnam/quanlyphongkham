@@ -1,0 +1,13 @@
+SCC = This is a Source Code Control file
+
+[QUANLYPHONGKHAM.sln]
+SCC_Aux_Path = "\\bacvd\SourceSafe_YTNB"
+SCC_Project_Name = "$/YTNB_2012", BAAAAAAA
+
+[QUANLYPHONGKHAM.vbproj]
+SCC_Aux_Path = "\\bacvd\SourceSafe_YTNB"
+SCC_Project_Name = "$/YTNB_2012", BAAAAAAA
+
+[Connection _db.csproj]
+SCC_Aux_Path = "\\bacvd\SourceSafe_YTNB"
+SCC_Project_Name = "$/YTNB_2012", BAAAAAAA

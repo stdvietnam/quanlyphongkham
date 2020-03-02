@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="DataSet_chitietPXN" targetNamespace="http://www.tempuri.org/DataSet_chitietPXN.xsd" xmlns:mstns="http://www.tempuri.org/DataSet_chitietPXN.xsd" xmlns="http://www.tempuri.org/DataSet_chitietPXN.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:element name="DataSet_chitietPXN" msdata:IsDataSet="true">
+    <xs:complexType>
+      <xs:choice maxOccurs="unbounded">
+        <xs:element name="Chi_Tiet_PXN">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msdata:ReadOnly="true" msdata:AutoIncrement="true" type="xs:long" />
+              <xs:element name="IDSophieu" type="xs:long" minOccurs="0" />
+              <xs:element name="Masp" type="xs:string" minOccurs="0" />
+              <xs:element name="Soluong" type="xs:long" minOccurs="0" />
+              <xs:element name="Dongia" type="xs:double" minOccurs="0" />
+              <xs:element name="DongiaVND" type="xs:double" minOccurs="0" />
+              <xs:element name="VAT" type="xs:double" minOccurs="0" />
+              <xs:element name="KhuyenMai" type="xs:boolean" minOccurs="0" />
+              <xs:element name="Thanhtien" type="xs:double" minOccurs="0" />
+              <xs:element name="ThanhtienVND" type="xs:double" minOccurs="0" />
+              <xs:element name="Giathanh" type="xs:double" minOccurs="0" />
+              <xs:element name="STT" type="xs:int" minOccurs="0" />
+              <xs:element name="Trietkhau" type="xs:double" minOccurs="0" />
+              <xs:element name="Lieudung" type="xs:string" minOccurs="0" />
+              <xs:element name="HanSD" type="xs:string" minOccurs="0" />
+              <xs:element name="Solo" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Chi_Tiet_PXN" />
+      <xs:field xpath="mstns:ID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
